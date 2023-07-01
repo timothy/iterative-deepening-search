@@ -19,4 +19,8 @@ function depthLimitedSearch(promblem, depth): return a node or failure or cutoff
   return result
 ```
 
+Also look into:
+ - Horizon Effect
+ - Quiescence search
+
 ref: 3.4 81
